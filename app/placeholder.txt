@@ -1,1 +1,1 @@
-This is a placeholder file for the app directory.
+This is a placeholder file for the app directory (website frontend soon).
