@@ -1,7 +1,7 @@
-subreddit,post_id,comment_id,image_index,image_url,image_source,image_type,media_id,caption
-,1k6ppjd,mos0a4n,0,https://upload.wikimedia.org/wikipedia/commons/4/41/Evolution_of_Boomerang.jpg,comment_text,embedded_link,,a drawing of various types of surgical instruments
-,1jbuimo,mif59by,0,https://blog.nationalmuseum.ch/app/uploads/2018/06/StadtpolizeiZH_6-scaled.webp,comment_text,embedded_link,,a group of men in uniforms holding umbrellas
-,1ibnakq,m9lasnr,0,https://static1.thetravelimages.com/wordpress/wp-content/uploads/2023/11/the-alexander-mosaic-is-a-roman-floor-mosaic.jpg,comment_text,embedded_link,,the mosaic floor of the ancient pompeii ruins
-,1ibnakq,m9lasnr,1,https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20230331100914250-0873:S1047759421000532:S1047759421000532_fig3.png,comment_text,embedded_link,,the floor plan of the ancient roman temple
-,1ibnakq,m9lasnr,2,https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20230331100914250-0873:S1047759421000532:S1047759421000532_fig2.png,comment_text,embedded_link,,a painting of a man holding a sword
-,1hqtv3e,m4u42c7,0,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Historical_ampersand_evolution.svg/1920px-Historical_ampersand_evolution.svg.png,comment_text,embedded_link,,a black background with a white clock on it
+subreddit,post_id,comment_id,image_index,image_url,caption
+history,1k6ppjd,mos0a4n,0,https://upload.wikimedia.org/wikipedia/commons/4/41/Evolution_of_Boomerang.jpg,a drawing of various types of surgical instruments
+history,1jbuimo,mif59by,0,https://blog.nationalmuseum.ch/app/uploads/2018/06/StadtpolizeiZH_6-scaled.webp,a group of men in uniforms holding umbrellas
+history,1ibnakq,m9lasnr,0,https://static1.thetravelimages.com/wordpress/wp-content/uploads/2023/11/the-alexander-mosaic-is-a-roman-floor-mosaic.jpg,the mosaic floor of the ancient pompeii ruins
+history,1ibnakq,m9lasnr,1,https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20230331100914250-0873:S1047759421000532:S1047759421000532_fig3.png,the floor plan of the ancient roman temple
+history,1ibnakq,m9lasnr,2,https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20230331100914250-0873:S1047759421000532:S1047759421000532_fig2.png,a painting of a man holding a sword
+history,1hqtv3e,m4u42c7,0,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Historical_ampersand_evolution.svg/1920px-Historical_ampersand_evolution.svg.png,a black background with a white clock on it

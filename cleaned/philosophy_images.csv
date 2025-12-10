@@ -1,3 +1,3 @@
-subreddit,post_id,comment_id,image_index,image_url,image_source,image_type,media_id,caption
-,1mbgyon,n5m7t2n,0,https://i.redd.it/sj48ofqvd4wd1.jpeg,comment_text,embedded_link,,the game gang three philosophers
-,1jozzdw,mkxiu4y,0,https://upload.wikimedia.org/wikipedia/en/5/56/%22The_Terrible_Sea_Lion%22._Wondermark_comic_strip_No._1062_by_David_Malki_%2819_September_2014%29.png,comment_text,embedded_link,,a comic strip about the history of the steam engine
+subreddit,post_id,comment_id,image_index,image_url,caption
+philosophy,1mbgyon,n5m7t2n,0,https://i.redd.it/sj48ofqvd4wd1.jpeg,the game gang three philosophers
+philosophy,1jozzdw,mkxiu4y,0,https://upload.wikimedia.org/wikipedia/en/5/56/%22The_Terrible_Sea_Lion%22._Wondermark_comic_strip_No._1062_by_David_Malki_%2819_September_2014%29.png,a comic strip about the history of the steam engine

@@ -1,8 +1,8 @@
-subreddit,post_id,comment_id,image_index,image_url,image_source,image_type,media_id,caption
-,1nn83c1,nfs6rbs,0,https://i.imgur.com/fEiAnK9.png,comment_text,embedded_link,,a table with the names of the players on the yankees
-,1nhmlbz,ned802x,0,https://i.redd.it/zzvcc5ox6qsy.jpg,comment_text,embedded_link,,the office is a great show
-,1n4dwk2,nblb7ty,0,https://i.imgur.com/CKp1Rup.png)...,comment_text,embedded_link,,a computer screen showing a video of a soccer game
-,1n4dwk2,nblv56f,0,https://i.imgur.com/KriiYZS.png).,comment_text,embedded_link,,a video game screen showing a football field
-,1mymugi,naj7o7o,0,https://i.imgur.com/UpPrvIp.jpeg),comment_text,embedded_link,,a black and white photo of a man in a suit
-,1mn7qem,n865828,0,https://i.imgur.com/S0eSAh6.gif),comment_text,embedded_link,,a man with a caption that says what the fuck did i say?
-,1mjdw6b,n7b37iz,0,https://i.imgur.com/HJ1lIFs.png,comment_text,embedded_link,,a man laying in bed with his eyes closed
+subreddit,post_id,comment_id,image_index,image_url,caption
+sports,1nn83c1,nfs6rbs,0,https://i.imgur.com/fEiAnK9.png,a table with the names of the players on the yankees
+sports,1nhmlbz,ned802x,0,https://i.redd.it/zzvcc5ox6qsy.jpg,the office is a great show
+sports,1n4dwk2,nblb7ty,0,https://i.imgur.com/CKp1Rup.png)...,a computer screen showing a video of a soccer game
+sports,1n4dwk2,nblv56f,0,https://i.imgur.com/KriiYZS.png).,a video game screen showing a football field
+sports,1mymugi,naj7o7o,0,https://i.imgur.com/UpPrvIp.jpeg),a black and white photo of a man in a suit
+sports,1mn7qem,n865828,0,https://i.imgur.com/S0eSAh6.gif),a man with a caption that says what the fuck did i say?
+sports,1mjdw6b,n7b37iz,0,https://i.imgur.com/HJ1lIFs.png,a man laying in bed with his eyes closed

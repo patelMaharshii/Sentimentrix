@@ -1,24 +1,24 @@
-subreddit,post_id,comment_id,image_index,image_url,image_source,image_type,media_id,caption
-,1n8ann3,neka2k2,0,https://m.media-amazon.com/images/I/51bv6R+15PL._AC_SL1237_.jpg,comment_text,embedded_link,,a metal blade with a screw and a screwdriver
-,1mr3rt5,n901g7f,0,https://i.imgur.com/k6o9NYQ.png).,comment_text,embedded_link,,a computer screen showing a space themed sticker
-,1mr3rt5,n925qp3,0,https://i.imgur.com/k6o9NYQ.png),comment_text,embedded_link,,a computer screen showing a space themed sticker
-,1mr3rt5,n925qp3,1,https://i.imgur.com/EiBW7qZ.jpeg),comment_text,embedded_link,,a cell phone with a cable attached to it
-,1lpf3et,n0xo0j9,0,https://i.kym-cdn.com/photos/images/original/000/645/713/888.jpg,comment_text,embedded_link,,the simpsons are out of touch
-,1ljlvr9,mzlb774,0,https://i.imgur.com/L6MFJdU.png),comment_text,embedded_link,,steve jobs nintendo switch 2
-,1ladz56,mxl109q,0,https://i.imgur.com/SkFp1Lr.jpeg,comment_text,embedded_link,,two pieces of electronic components on a table
-,1l4ruqz,mwczqq0,0,https://i.redd.it/asc0pxz1oc5f1.jpeg,comment_text,embedded_link,,a nintendo switch with a screen on it
-,1kucwwz,mu1ms4j,0,https://i.imgur.com/Y8I6ITz.png,comment_text,embedded_link,,the top games on steam are displayed
-,1kucwwz,mu5813p,0,https://i.imgur.com/CCzlcg5.jpeg),comment_text,embedded_link,,the screen shot of the trading platform
-,1ksqzce,mto0033,0,https://i.imgur.com/TiMB4s5.jpeg,comment_text,embedded_link,,a cell phone screen showing a yellow battery connector
-,1ksqzce,mtnxgk2,0,https://i.imgur.com/x8Nyt7h.jpeg),comment_text,embedded_link,,a computer case with a red light on it
-,1kq9y3d,mt99cxv,0,https://help.apple.com/assets/67DB5E38D72D89CBAF02499E/67DB5E3ED72D89CBAF0249AB/en_US/ee6015b957c49781333782b90e62e392.png,comment_text,embedded_link,,three images of a woman wearing virtual reality goggles
-,1kpefz8,mt0krha,0,"https://i.imgur.com/USXJdvX.png),",comment_text,embedded_link,,the european union and the european legal system
-,1kb7h2n,mpt57d9,0,https://i.imgur.com/Txtxtt7.png),comment_text,embedded_link,,xbox one controller with gold and black buttons
-,1kb7h2n,mpt57d9,1,https://i.imgur.com/69LaBUK.png),comment_text,embedded_link,,a game controller with a blue and pink color scheme
-,1kak3id,mpo1rgs,0,https://i.imgur.com/TIfF4dW.jpeg),comment_text,embedded_link,,a computer case with a fan and a fan controller
-,1kak3id,mpo1rgs,1,https://i.imgur.com/OkCpsO5.jpeg).,comment_text,embedded_link,,a computer case with a computer inside
-,1k6u6xv,mp0ng8x,0,https://gizmodo.com/app/uploads/2024/11/waymo-map-896x650.jpg,comment_text,embedded_link,,"los angeles, ca - los angeles, ca - los angeles, ca - los angeles, ca - los angeles, ca -"
-,1k24mio,mntfcji,0,https://i.imgur.com/ikUjz0i.png,comment_text,embedded_link,,a chart showing the growth of nintendo's earnings
-,1k1h8ry,mnntkvd,0,https://i.imgur.com/dgGvgKF.png,comment_text,embedded_link,,a screenshot of a website with a green background
-,1jxdm2z,mmxxap5,0,https://i.rtings.com/images/optimal-viewing-distance-television-graph-size.png,comment_text,embedded_link,,optimal viewing distance by the size of the television and the resolution
-,1jdmuhk,mieopqk,0,https://i.imgur.com/LOZcpt4.jpeg),comment_text,embedded_link,,a menu with drinks on a wall with a sign that says free topping
+subreddit,post_id,comment_id,image_index,image_url,caption
+gadgets,1n8ann3,neka2k2,0,https://m.media-amazon.com/images/I/51bv6R+15PL._AC_SL1237_.jpg,a metal blade with a screw and a screwdriver
+gadgets,1mr3rt5,n901g7f,0,https://i.imgur.com/k6o9NYQ.png).,a computer screen showing a space themed sticker
+gadgets,1mr3rt5,n925qp3,0,https://i.imgur.com/k6o9NYQ.png),a computer screen showing a space themed sticker
+gadgets,1mr3rt5,n925qp3,1,https://i.imgur.com/EiBW7qZ.jpeg),a cell phone with a cable attached to it
+gadgets,1lpf3et,n0xo0j9,0,https://i.kym-cdn.com/photos/images/original/000/645/713/888.jpg,the simpsons are out of touch
+gadgets,1ljlvr9,mzlb774,0,https://i.imgur.com/L6MFJdU.png),steve jobs nintendo switch 2
+gadgets,1ladz56,mxl109q,0,https://i.imgur.com/SkFp1Lr.jpeg,two pieces of electronic components on a table
+gadgets,1l4ruqz,mwczqq0,0,https://i.redd.it/asc0pxz1oc5f1.jpeg,a nintendo switch with a screen on it
+gadgets,1kucwwz,mu1ms4j,0,https://i.imgur.com/Y8I6ITz.png,the top games on steam are displayed
+gadgets,1kucwwz,mu5813p,0,https://i.imgur.com/CCzlcg5.jpeg),the screen shot of the trading platform
+gadgets,1ksqzce,mto0033,0,https://i.imgur.com/TiMB4s5.jpeg,a cell phone screen showing a yellow battery connector
+gadgets,1ksqzce,mtnxgk2,0,https://i.imgur.com/x8Nyt7h.jpeg),a computer case with a red light on it
+gadgets,1kq9y3d,mt99cxv,0,https://help.apple.com/assets/67DB5E38D72D89CBAF02499E/67DB5E3ED72D89CBAF0249AB/en_US/ee6015b957c49781333782b90e62e392.png,three images of a woman wearing virtual reality goggles
+gadgets,1kpefz8,mt0krha,0,"https://i.imgur.com/USXJdvX.png),",the european union and the european legal system
+gadgets,1kb7h2n,mpt57d9,0,https://i.imgur.com/Txtxtt7.png),xbox one controller with gold and black buttons
+gadgets,1kb7h2n,mpt57d9,1,https://i.imgur.com/69LaBUK.png),a game controller with a blue and pink color scheme
+gadgets,1kak3id,mpo1rgs,0,https://i.imgur.com/TIfF4dW.jpeg),a computer case with a fan and a fan controller
+gadgets,1kak3id,mpo1rgs,1,https://i.imgur.com/OkCpsO5.jpeg).,a computer case with a computer inside
+gadgets,1k6u6xv,mp0ng8x,0,https://gizmodo.com/app/uploads/2024/11/waymo-map-896x650.jpg,"los angeles, ca - los angeles, ca - los angeles, ca - los angeles, ca - los angeles, ca -"
+gadgets,1k24mio,mntfcji,0,https://i.imgur.com/ikUjz0i.png,a chart showing the growth of nintendo's earnings
+gadgets,1k1h8ry,mnntkvd,0,https://i.imgur.com/dgGvgKF.png,a screenshot of a website with a green background
+gadgets,1jxdm2z,mmxxap5,0,https://i.rtings.com/images/optimal-viewing-distance-television-graph-size.png,optimal viewing distance by the size of the television and the resolution
+gadgets,1jdmuhk,mieopqk,0,https://i.imgur.com/LOZcpt4.jpeg),a menu with drinks on a wall with a sign that says free topping

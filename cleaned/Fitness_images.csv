@@ -1,17 +1,17 @@
-subreddit,post_id,comment_id,image_index,image_url,image_source,image_type,media_id,caption
-,1merhjq,n6bx33p,0,https://i.imgur.com/pIohpNH.jpeg,comment_text,embedded_link,,a machine with a bar and weights on it
-,1mahn09,n5j094p,0,https://i.imgur.com/NHBULz5.jpeg,comment_text,embedded_link,,a computer screen showing the high scores of a game
-,1lre2nt,n1as4a2,0,https://i.imgur.com/DSwjlFu.jpeg),comment_text,embedded_link,,two pictures of a man walking down the street
-,1lab6mu,mxout5v,0,https://i.imgur.com/dI1foiF.jpeg,comment_text,embedded_link,,a man and woman doing squats on a tennis court
-,1ku5tuf,mucd1ol,0,https://i.imgur.com/KcpffFo.png),comment_text,embedded_link,,a man wearing a headband is sitting in front of a computer
-,1j5k42q,mgkpmij,0,https://i.imgur.com/XdU93Lu.jpeg),comment_text,embedded_link,,a man with no shirt on taking a selfie
-,1j5k42q,mgj5i8n,0,https://i.imgur.com/mL3fY0v.png,comment_text,embedded_link,,a man in a hotel room taking a selfie
-,1iebh7i,ma7owbn,0,https://i.ibb.co/r2fSbJg7/IMG-3672.jpg,comment_text,embedded_link,,a man with no shirt taking a selfie
-,1iebh7i,ma76py8,0,https://i.ibb.co/4nJ15PMp/IMG-3558.jpg,comment_text,embedded_link,,a shirtless man taking a selfie in front of the mirror
-,1icqgo6,m9u3wzk,0,https://i.imgur.com/l0doG8C.png,comment_text,embedded_link,,the table shows the top 10 players in the majors
-,1hy14td,m6e5p68,0,https://i.imgur.com/eBwJQ8S.jpeg),comment_text,embedded_link,,a man sitting in a chair
-,1hy14td,m6e5p68,1,https://i.imgur.com/yvmPLev.jpeg),comment_text,embedded_link,,a man taking a selfie in the mirror
-,1hy14td,m6e5p68,2,https://i.imgur.com/yu5ObKx.jpeg),comment_text,embedded_link,,a man taking a selfie with his shirt off
-,1hy14td,m6e5p68,3,https://i.imgur.com/4kc8Ww9.jpeg),comment_text,embedded_link,,a man taking a selfie in front of a mirror
-,1hnbqf8,m43tixs,0,https://i.imgur.com/9f0qGUS.jpeg,comment_text,embedded_link,,a shirtless man with glasses taking a selfie
-,1hmldbz,m3wd140,0,https://i.imgur.com/4AQEl0z.png).,comment_text,embedded_link,,the schedule for the baseball season
+subreddit,post_id,comment_id,image_index,image_url,caption
+Fitness,1merhjq,n6bx33p,0,https://i.imgur.com/pIohpNH.jpeg,a machine with a bar and weights on it
+Fitness,1mahn09,n5j094p,0,https://i.imgur.com/NHBULz5.jpeg,a computer screen showing the high scores of a game
+Fitness,1lre2nt,n1as4a2,0,https://i.imgur.com/DSwjlFu.jpeg),two pictures of a man walking down the street
+Fitness,1lab6mu,mxout5v,0,https://i.imgur.com/dI1foiF.jpeg,a man and woman doing squats on a tennis court
+Fitness,1ku5tuf,mucd1ol,0,https://i.imgur.com/KcpffFo.png),a man wearing a headband is sitting in front of a computer
+Fitness,1j5k42q,mgkpmij,0,https://i.imgur.com/XdU93Lu.jpeg),a man with no shirt on taking a selfie
+Fitness,1j5k42q,mgj5i8n,0,https://i.imgur.com/mL3fY0v.png,a man in a hotel room taking a selfie
+Fitness,1iebh7i,ma7owbn,0,https://i.ibb.co/r2fSbJg7/IMG-3672.jpg,a man with no shirt taking a selfie
+Fitness,1iebh7i,ma76py8,0,https://i.ibb.co/4nJ15PMp/IMG-3558.jpg,a shirtless man taking a selfie in front of the mirror
+Fitness,1icqgo6,m9u3wzk,0,https://i.imgur.com/l0doG8C.png,the table shows the top 10 players in the majors
+Fitness,1hy14td,m6e5p68,0,https://i.imgur.com/eBwJQ8S.jpeg),a man sitting in a chair
+Fitness,1hy14td,m6e5p68,1,https://i.imgur.com/yvmPLev.jpeg),a man taking a selfie in the mirror
+Fitness,1hy14td,m6e5p68,2,https://i.imgur.com/yu5ObKx.jpeg),a man taking a selfie with his shirt off
+Fitness,1hy14td,m6e5p68,3,https://i.imgur.com/4kc8Ww9.jpeg),a man taking a selfie in front of a mirror
+Fitness,1hnbqf8,m43tixs,0,https://i.imgur.com/9f0qGUS.jpeg,a shirtless man with glasses taking a selfie
+Fitness,1hmldbz,m3wd140,0,https://i.imgur.com/4AQEl0z.png).,the schedule for the baseball season
